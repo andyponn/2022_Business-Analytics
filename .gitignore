@@ -1,0 +1,9 @@
+*.html
+*.csv
+*.png
+*.jpg
+*.pages
+*.RData
+*.Rhistory
+*handout.R
+Lecture Note/*
